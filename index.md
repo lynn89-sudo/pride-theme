@@ -1,4 +1,6 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# pride-theme
+*pride-theme* is a Jekyll pride theme.
