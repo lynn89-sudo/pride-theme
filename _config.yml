@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title:  pride-theme
+description: "*pride-theme* is a Jekyll pride theme."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
